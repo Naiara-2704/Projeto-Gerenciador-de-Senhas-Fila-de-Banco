@@ -1,0 +1,7 @@
+C:\Projetos\Moura\Colecoes\Colecoes\GerenciadorDeSenhas\bin\Debug\GerenciadorDeSenhas.exe.config
+C:\Projetos\Moura\Colecoes\Colecoes\GerenciadorDeSenhas\bin\Debug\GerenciadorDeSenhas.exe
+C:\Projetos\Moura\Colecoes\Colecoes\GerenciadorDeSenhas\bin\Debug\GerenciadorDeSenhas.pdb
+C:\Projetos\Moura\Colecoes\Colecoes\GerenciadorDeSenhas\obj\Debug\GerenciadorDeSenhas.csproj.AssemblyReference.cache
+C:\Projetos\Moura\Colecoes\Colecoes\GerenciadorDeSenhas\obj\Debug\GerenciadorDeSenhas.csproj.CoreCompileInputs.cache
+C:\Projetos\Moura\Colecoes\Colecoes\GerenciadorDeSenhas\obj\Debug\GerenciadorDeSenhas.exe
+C:\Projetos\Moura\Colecoes\Colecoes\GerenciadorDeSenhas\obj\Debug\GerenciadorDeSenhas.pdb
